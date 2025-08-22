@@ -30,9 +30,8 @@ I’m open to opportunities where I can:
 
 ### 📫 Let's Connect
 
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/c685ab8a-f419-4f29-a18d-e4b2937d58bd" />
- [LinkedIn](https://www.linkedin.com/in/ahmed-mostafa-daoud)  
-- 📱 [WhatsApp](+201029121638)  
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/c685ab8a-f419-4f29-a18d-e4b2937d58bd" /> [LinkedIn](https://www.linkedin.com/in/ahmed-mostafa-daoud)  
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8c52ca2b-845c-43b7-993f-15ba719b6a7d" /> [WhatsApp](+201029121638)  
 
 ---
 
