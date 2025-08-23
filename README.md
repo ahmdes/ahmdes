@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in mob
 - 📈 Studied professional development and GitHub optimization through Elmadrasah Online
 
     </td>
-    <td align="right" width="10%">
+    <td align="right" width="5%">
       <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF"/>
     </td>
   </tr>
