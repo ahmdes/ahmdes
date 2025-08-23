@@ -4,7 +4,7 @@
 
 # 👋 Hi there , I'm Ahmed
 
-## ⦾ Flutter Developer | Computer Science Graduate | Qur’an Teacher
+## ⦾ Flutter Developer | Computer Science Graduate .
 
 Welcome to my GitHub! I'm a passionate developer with a strong foundation in mobile app development and a deep commitment to purposeful technology and lifelong learning.
 
@@ -41,12 +41,6 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in mob
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Provider-0A0A0A?logo=flutter&logoColor=white" alt="Provider"/>
   <img src="https://img.shields.io/badge/AI%20Tools-00B4D8?logo=openai&logoColor=white" alt="AI Tools"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
