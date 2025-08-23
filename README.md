@@ -2,9 +2,9 @@
 <!--      AHMED’S README      -->
 <!-- ========================= -->
 
-# 👋 Hi there , I'm Ahmed
+# 👋 Hi there, I'm Ahmed
 
-## ⦾ Flutter Developer | Computer Science Graduate .
+## ⦾ Flutter Developer | Computer Science Graduate
 
 Welcome to my GitHub! I'm a passionate developer with a strong foundation in mobile app development and a deep commitment to purposeful technology and lifelong learning.
 
@@ -12,21 +12,27 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in mob
 
 ## 🚀 About Me
 
-<div align="right">
-<img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF" style="z-index:99;"/>
-</div>
-
+<table>
+  <tr>
+    <td valign="top" width="60%">
+    
 - 🎓 Graduate of the Faculty of Computer Science and Information Technology  
 - 📱 Specializing in **Flutter** for cross-platform mobile development  
 - 🔧 Experienced with:
-  - Dart & Flutter
-  - Firebase (Authentication, Firestore)
-  - Provider (State Management)
-  - Git & GitHub (Version Control & Collaboration)
-
+  - Dart & Flutter  
+  - Firebase (Authentication, Firestore)  
+  - Provider (State Management)  
+  - Git & GitHub (Version Control & Collaboration)  
 - 💡 Solid foundation in **C++**, studied under Instructor Mohamed Hadhoud  
 - 🤖 Exploring **AI integration** in development workflows using tools like ChatGPT  
 - 📈 Studied professional development and GitHub optimization through Elmadrasah Online
+
+    </td>
+    <td align="right" width="40%">
+      <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -48,8 +54,10 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in mob
 ## 🔗 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/ahmed-mostafa-daoud"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
- <a href="https://wa.me/201029121638">
+  <a href="https://linkedin.com/in/ahmed-mostafa-daoud">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/201029121638">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
