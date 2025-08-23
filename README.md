@@ -59,6 +59,6 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in mob
  alt="Ahmed Mostafa"/>
   </a>
   <a href="https://wa.me/201029121638">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="Ahmed Mostafa"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=Ahmed Mostafa&logoColor=white" alt="Ahmed Mostafa"/>
   </a>
 </p>
