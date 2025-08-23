@@ -2,12 +2,11 @@
 <!--      AHMED’S README      -->
 <!-- ========================= -->
 
-<p align="center">
-  <h1>Hey there, I’m <a href="#">Ahmed</a> 👋</h1>
-  <p><em>Flutter Developer · CS Graduate 📖</em></p>
-  <p>📅 <strong>Last updated:</strong> August 23, 2025</p>
-  <p>💼 <strong>Current:</strong> Exploring opportunities in mobile development and AI integration</p>
-</p>
+# 👋 Hi there , I'm Ahmed
+
+## ⦾ Flutter Developer | Computer Science Graduate | Qur’an Teacher
+
+Welcome to my GitHub! I'm a passionate developer with a strong foundation in mobile app development and a deep commitment to purposeful technology and lifelong learning.
 
 ---
 
@@ -17,11 +16,19 @@
 <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF" style="z-index:99;"/>
 </div>
 
-<div align="left">
-I’m a Computer Science graduate with a passion for building innovative mobile applications using Flutter. I specialize in cross-platform development and backend integration with Firebase. I’m also exploring how to integrate AI tools like ChatGPT into development workflows to boost productivity and create smarter solutions.
+### 💻 About Me
 
-Beyond tech, I’m a Qur’an teacher with two Ijazahs in recitation, currently pursuing advanced studies at the Institute of Qirā’āt. My journey in teaching has shaped my discipline, patience, and communication—qualities I bring into every project I work on.
-</div>
+- 🎓 Graduate of the Faculty of Computer Science and Information Technology  
+- 📱 Specializing in **Flutter** for cross-platform mobile development  
+- 🔧 Experienced with:
+  - Dart & Flutter
+  - Firebase (Authentication, Firestore)
+  - Provider (State Management)
+  - Git & GitHub (Version Control & Collaboration)
+
+- 💡 Solid foundation in **C++**, studied under Instructor Mohamed Hadhoud  
+- 🤖 Exploring **AI integration** in development workflows using tools like ChatGPT  
+- 📈 Studied professional development and GitHub optimization through Elmadrasah Online
 
 ---
 
