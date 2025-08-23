@@ -59,7 +59,8 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in mob
  alt="LinkedIn" height="30" style="fill:#0077B5; margin: 0 10px;"/>
   </a>
   <a href="https://wa.me/201029121638" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" alt="WhatsApp" height="30" style="fill:#25D366; margin: 0 10px;"/>
+    <img src="https://github.com/user-attachments/assets/d5e43f63-c200-4b01-8d6f-bb9cb7493b46" 
+ alt="WhatsApp" height="30" style="fill:#25D366; margin: 0 10px;"/>
   </a>
 </p>
 
