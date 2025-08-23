@@ -45,14 +45,6 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in mob
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge" alt="Profile Views"/>
 </p>
