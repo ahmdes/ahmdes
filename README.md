@@ -56,11 +56,11 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in mob
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-mostafa-daoud" target="_blank">
     <img src="https://github.com/user-attachments/assets/6f82d3b6-ddc2-472e-809b-4e9764b30096"
- alt="LinkedIn" height="30" style="fill:#0077B5; margin: 0 10px;"/>
+ alt="LinkedIn" height="50" style="fill:#0077B5; margin: 0 10px;"/>
   </a>
   <a href="https://wa.me/201029121638" target="_blank">
     <img src="https://github.com/user-attachments/assets/d5e43f63-c200-4b01-8d6f-bb9cb7493b46" 
- alt="WhatsApp" height="30" style="fill:#25D366; margin: 0 10px;"/>
+ alt="WhatsApp" height="50" style="fill:#25D366; margin: 0 10px;"/>
   </a>
 </p>
 
