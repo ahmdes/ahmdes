@@ -55,10 +55,9 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in mob
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-mostafa-daoud">
-   <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/c81b4e35-8815-4a1b-8a9a-154124755a63" 
- alt="Ahmed Mostafa"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://wa.me/201029121638">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=Ahmed Mostafa&logoColor=white" alt="Ahmed Mostafa"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
