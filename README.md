@@ -12,11 +12,9 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in mob
 
 ## 🚀 About Me
 
-<div align="center">
+<div align="right">
 <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF" style="z-index:99;"/>
 </div>
-
-### 💻 About Me
 
 - 🎓 Graduate of the Faculty of Computer Science and Information Technology  
 - 📱 Specializing in **Flutter** for cross-platform mobile development  
