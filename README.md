@@ -61,6 +61,8 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in mob
   <a href="https://wa.me/201029121638" target="_blank">
     <img src="https://github.com/user-attachments/assets/d5e43f63-c200-4b01-8d6f-bb9cb7493b46" 
  alt="WhatsApp" height="50" style="fill:#25D366; margin: 0 10px;"/>
+  </a>  <a href="mailto:ahmed.mostafa.elshekh@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50" style="margin: 0 10px;"/>
   </a>
 </p>
 
